@@ -1,0 +1,1 @@
+C:\Users\ADMIN\OneDrive\Desktop\RUST\ PROGRAMMING\ LANGUAGE\rust-mini-project\target\debug\twelve-days.exe: C:\Users\ADMIN\OneDrive\Desktop\RUST\ PROGRAMMING\ LANGUAGE\rust-mini-project\twelve-days\src\main.rs

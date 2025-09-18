@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "fibonacci", "password-generator",
+    "twelve-days",
+    "password-generator"
+]

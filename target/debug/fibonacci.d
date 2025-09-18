@@ -1,0 +1,1 @@
+C:\Users\ADMIN\OneDrive\Desktop\RUST\ PROGRAMMING\ LANGUAGE\rust-mini-project\target\debug\fibonacci.exe: C:\Users\ADMIN\OneDrive\Desktop\RUST\ PROGRAMMING\ LANGUAGE\rust-mini-project\fibonacci\src\main.rs
